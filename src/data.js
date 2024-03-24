@@ -29,7 +29,7 @@ export const projects = [
     subtitle: "Django Channels, Python, and JavaScript Websockets",
     description:
       "Vartalaap is a simple chat webapp where users can created on the admin end & they can join a certain conversation group but it is limited to just one domain..",
-    image: "/project-2.gif",
+    image: "./project-2.gif",
     link: "",
   },
 ];
@@ -59,7 +59,7 @@ export const skills = [
   "Golang",
   "C++",
   "HTML/CSS",
-  "Docker"
+  "Docker",
 ];
 
 export const socials = [
@@ -78,7 +78,29 @@ export const socials = [
     url: 'https://dev.to/cyborglaksh', 
     icon: 'https://simpleicons.org/icons/devdotto.svg',
   },
-
-  
   // Add more social links as needed
 ];
+
+export const workex = [
+  {
+    Company: "Microland",
+    Position: "Software Developer",
+    Description: "Specializing in development, my stack includes Python, Django, Golang, and Kotlin. Initially focusing on Ansible automation and Grafana deployment, I later transitioned to the End User Platforms team at Microland. Here, I developed, tested, and deployed Windows-specific bots to elevate customer environments and enhance end-user experiences.",
+    Order: "1",
+  },
+  {
+    Company: "Microland",
+    Position: "Engineer Intern",
+    Description: "Developed MongoDB-driven UI for seamless data extraction with CRUD operations, deployed via internal servers. Integrated RBAC into user creation model. Designed and developed real-time IDE creation. Enhanced data update flow with Django-based UI, automating workflow and minimizing manual effort and execution time.",
+    Order: "2",
+  },
+  {
+    Company: "Axis Bank",
+    Position: "Summer Engineer Intern",
+    Description: "Developed a Covid-19 tracker website inclusive of search via queries based mechanism.Visualization of Covid data for different countries using graphs.Developed the automation pipeline for Code using CICD pipelines in SDLC with the help of Jenkins CI Tool. Used Github as Source Code Repo and deployed the project into production and reduced manual labour.",
+    Order: "3",
+  },
+];
+
+
+// export const honors = [];

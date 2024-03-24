@@ -17,7 +17,10 @@ export default function Navbar() {
             Socials
           </a>
           <a href="#projects" className="mr-5 hover:text-white">
-            Past Work
+            Projects
+          </a>
+          <a href="#workex" className="mr-5 hover:text-white">
+            Workex
           </a>
           <a href="#skills" className="mr-5 hover:text-white">
             Skills

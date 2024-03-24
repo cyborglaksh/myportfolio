@@ -8,7 +8,7 @@ import About from "./components/About";
 import Navbar from "./components/Navbar";
 import Projects from "./components/Projects";
 import Socials from "./components/Socials";
-
+import Workex from "./components/Workex";
 
 export default function App() {
   return (
@@ -16,6 +16,7 @@ export default function App() {
       <Navbar />
       <About />
       <Socials />
+      <Workex />
       <Projects />
       <Skills />
       {/* <Testimonials /> */}
