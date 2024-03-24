@@ -72,7 +72,13 @@ export const socials = [
     name: "Linkedin",
     url: 'https://www.linkedin.com/in/cyborglaksh/', 
     icon: 'https://simpleicons.org/icons/linkedin.svg',
+  },  
+  { 
+    name: "Dev.to",
+    url: 'https://dev.to/cyborglaksh', 
+    icon: 'https://simpleicons.org/icons/devdotto.svg',
   },
+
   
   // Add more social links as needed
 ];
