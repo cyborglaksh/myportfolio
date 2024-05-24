@@ -56,6 +56,8 @@ export const skills = [
   "React.js",
   "Node.js",
   "Python",
+  "Django",
+  "Ansible",
   "Golang",
   "C++",
   "HTML/CSS",
@@ -87,7 +89,7 @@ export const workex = [
     Position: "Software Developer",
     Description: "Specializing in development, my stack includes Python, Django, Golang, and Kotlin. Initially focusing on Ansible automation and Grafana deployment, I later transitioned to the End User Platforms team at Microland. Here, I developed, tested, and deployed Windows-specific bots to elevate customer environments and enhance end-user experiences.",
     Order: "1",
-    time: "2021",
+    time: "2022-Present",
   },
   {
     Company: "Microland",
@@ -101,7 +103,7 @@ export const workex = [
     Position: "Summer Engineer Intern",
     Description: "Developed a Covid-19 tracker website inclusive of search via queries based mechanism.Visualization of Covid data for different countries using graphs.Developed the automation pipeline for Code using CICD pipelines in SDLC with the help of Jenkins CI Tool. Used Github as Source Code Repo and deployed the project into production and reduced manual labour.",
     Order: "3",
-    time: "2022-Present"
+    time: "2021"
   },
 ];
 
