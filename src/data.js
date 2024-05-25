@@ -21,17 +21,25 @@ export const projects = [
     subtitle: "HTML/CSS & JavaScript",
     description:
       "Covid Tracker Website for better Analysis of Covid Data Country Wise. Location can be changed dynamically to obtain the real time data which using the open source api calls..",
-    image: "./project-3.gif",
+    image: "./project-2.gif",
     link: "https://19trackercovid.netlify.app/",
   },
   {
     title: "Vartalaap - Basic Chat Room Webapp",
-    subtitle: "Django Channels, Python, and JavaScript Websockets",
+    subtitle: "Django, Python, and JavaScript",
     description:
       "Vartalaap is a simple chat webapp where users can created on the admin end & they can join a certain conversation group but it is limited to just one domain..",
-    image: "./project-2.gif",
+    image: "./project-3.gif",
     link: "",
   },
+  {
+    "title": "Portfolio Showcase",
+    "subtitle": "React.js Web Application",
+    "description": "Portfolio Showcase is a React.js web application designed to display and highlight the my work and skills. ",
+    "image": "./project-4.gif",
+    "link": "https://cyborglaksh.github.io/myportfolio/"
+  }
+  
 ];
 
 // export const testimonials = [
